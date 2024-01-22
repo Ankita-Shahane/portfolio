@@ -601,3 +601,35 @@ a{
 .skill-subHeading p{
   margin:15px 0;
 }
+.footer{
+  background-color: #000;
+  justify-content: center;
+ align-items: center;
+ 
+
+}
+.text-footer{
+  font-size: 50px;
+  background: #000;
+  color: #fff;
+  display: grid;
+  justify-content: center;
+
+}
+.footer-logo:hover{
+  transform:scale(1.2);
+}
+.footer-logo{
+  height: 60px;
+  width: 60px;
+  padding-right: 20px;
+  border-radius: 100px;
+ 
+}
+.logos{
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  margin-left: 400px;
+  margin-right: 400px;
+}
